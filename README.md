@@ -4,4 +4,4 @@
 
 | Task| asset |
 | ------------- | ------------- |
-| CKB and indexed fully sync on testnet  | [Image](./assets/00-full-sync-node-indexer.png) |
+| CKB node and indexer fully sync on testnet | [Image](./assets/00-full-sync-node-indexer.png) |
