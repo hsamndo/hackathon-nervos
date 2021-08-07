@@ -42,3 +42,11 @@
 | Deposit to Layer 2 | [Image](./assets/04-sudt-sent-godwoken.png) |
 | SUDT ID | [SUDT ID](./assets/04-sudt-id.txt) |
 
+## Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
+
+| Task| asset |
+| ------------- | ------------- |
+| Output Deployed Proxy Contract | [Image](./assets/05-smart-contract-proxy-deployed.png) |
+| Proxy Contract Address | [Address](./assets/05-address-ERC20-proxy-contract.txt) |
+| Checking SUDT Balance | [Image](./assets/05-balance-checked.png) |
+| Ethereum Address Checked | [Address](./assets/05-ethereum-address.txt) |
