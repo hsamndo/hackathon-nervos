@@ -32,3 +32,13 @@
 | Smart Contract Address | [Address](./assets/03-smart-contract-address.txt) |
 | ABI | [ABI](./assets/03-abi.json) |
 
+## Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+
+| Task| asset |
+| ------------- | ------------- |
+| CKB Address Funded by Nervos Faucet | [Nervos Explorer](https://explorer.nervos.org/aggron/address/ckt1qyqr7j4ca8j6n07uwf0smk3ukytxxrt3ep8sezkvzc) |
+| sudt-cli create sudt token | [Image](./assets/04-sudt-minted.png) |
+| Transaction ID sudt | [Nervos Explorer](https://explorer.nervos.org/aggron/transaction/0xa20eadb680b16b04ff1e9479dab6d5515f598a0050278210d457ff15ddd08e5b) |
+| Deposit to Layer 2 | [Image](./assets/04-sudt-sent-godwoken.png) |
+| SUDT ID | [SUDT ID](./assets/04-sudt-id.txt) |
+
