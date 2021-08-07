@@ -22,3 +22,13 @@
 | Output Smart Contract Deployed | [Image](./assets/02-smart-contract-deployed.png) |
 | Transaction Hash | [Hash](./assets/02-transaction-hash-smart-contract.txt) |
 | Smart Contract Address | [Address](./assets/02-smart-contract-address.txt) |
+
+## Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
+
+| Task| asset |
+| ------------- | ------------- |
+| Output Smart Contract Call | [Image](./assets/03-smart-contract-call.png) |
+| Write Transaction Hash | [Hash](./assets/03-write-transaction-hash.txt) |
+| Smart Contract Address | [Address](./assets/03-smart-contract-address.txt) |
+| ABI | [ABI](./assets/03-abi.json) |
+
