@@ -14,3 +14,11 @@
 | ckb-cli account list command | [Image](./assets/01-ckb-cli-account-list.png) |
 | CKB Address Funded by Nervos Faucet | [Nervos Explorer](https://explorer.nervos.org/aggron/address/ckt1qyqr7j4ca8j6n07uwf0smk3ukytxxrt3ep8sezkvzc) |
 | CKB Layer 1 CKB to Layer 2 Godwoken Account | [Image](./assets/01-ckb-transfer-l1-to-l2-godwoken.png) |
+
+## Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+
+| Task| asset |
+| ------------- | ------------- |
+| Output Smart Contract Deployed | [Image](./assets/02-smart-contract-deployed.png) |
+| Transaction Hash | [Hash](./assets/02-transaction-hash-smart-contract.txt) |
+| Smart Contract Address | [Address](./assets/02-smart-contract-address.txt) |
