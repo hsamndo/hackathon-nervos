@@ -60,3 +60,11 @@
 | Ethereum Address | [Address](./assets/06-ethereum-address-to-generate-receiver.txt) |
 | Etherscan Transaction | [Etherscan](https://rinkeby.etherscan.io/tx/0xb1fd26dcd87722f455394d7710f7ee2f933154141a8fedacd89e58cc7d61ca78) |
 | Success Transaction on Nervos Explorer | [Explorer](https://explorer.nervos.org/aggron/transaction/0x1c327e8dec48f03346101c4395a95ed0287d157dff2be69b9e064229b0b3e34f) |
+
+## Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1
+
+| Task| asset |
+| ------------- | ------------- |
+| Output Initiate The Withdrawal | [Image](./assets/09-output-initiate-withdrawal-process.png) |
+| Ethereum Address | [Address](./assets/09-ethereum-address-used.txt) |
+| CKB Address L1 | [Address](./assets/09-nervos-l1-address.txt) |
